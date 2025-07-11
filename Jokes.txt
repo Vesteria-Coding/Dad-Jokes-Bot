@@ -281,7 +281,6 @@ I used to work at a helium gas factory, but I refused to be spoken to in that to
 I just bought a thesaurus and it’s terrible. Not only is it terrible, it’s terrible.
 Why was the belt arrested? For holding up a pair of pants.
 I broke my finger last week. On the other hand, I’m okay.
-Why was the broom late? It swept in.
 I tried to catch some fog earlier. I mist.
 Why don't seagulls fly over the bay? Because then they'd be bagels.
 I gave up my dream of becoming a baker. I just couldn't make enough bread.
@@ -312,7 +311,6 @@ You ever hear about the kidnapping at school? He woke up fine.
 I used to be a tap dancer—until I fell in the sink.
 I'm so bright, my mom calls me sun.
 I bought a new mattress and now I sleep on it every night. It’s the bed I ever made.
-What’s a vampire’s favorite fruit? A blood orange.
 Why did the banana go to therapy? It had split issues.
 My printer broke and I couldn’t find the paper tray. It was a jam.
 My cat refuses to play poker. He’s afraid of cheetahs.
@@ -411,4 +409,237 @@ What’s a ghost’s favorite fruit? Boo-berries.
 Why are koalas not considered bears? They don’t have the right koalafications.
 The baker always won arguments. He had a lot of dough.
 I named my dog “Five Miles” so I can tell people I walk Five Miles every day.
-test
+What do you call a pile of cats? A meowtain.
+Why did the scarecrow win an award? Because he was outstanding in his field.
+Why don’t scientists trust atoms? Because they make up everything.
+Why did the bicycle fall over? Because it was two-tired.
+I told my wife she was drawing her eyebrows too high. She looked surprised.
+Why can’t you hear a pterodactyl go to the bathroom? Because the "P" is silent.
+I’m reading a book about anti-gravity. It’s impossible to put down.
+Why did the math book look sad? Because it had too many problems.
+Why did the chicken join a band? Because it had the drumsticks.
+What do you call cheese that isn’t yours? Nacho cheese.
+Why did the coffee file a police report? It got mugged.
+What do you call a belt made of watches? A waist of time.
+Why did the golfer bring two pairs of pants? In case he got a hole in one.
+How do you organize a space party? You planet.
+Why don’t crabs give to charity? Because they’re shellfish.
+Why did the cookie cry? Because his mom was a wafer too long.
+What do you call fake spaghetti? An impasta.
+I used to be addicted to soap, but I’m clean now.
+Why did the tomato blush? It saw the salad dressing.
+I’m afraid for the calendar. Its days are numbered.
+What do you call a factory that makes okay products? A satisfactory.
+Want to hear a construction joke? Oh… never mind, I’m still working on it.
+I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.
+I’m on a seafood diet. I see food and I eat it.
+Why did the bicycle fall over? It was two tired.
+What do you call a fish wearing a bowtie? Sofishticated.
+I used to be a banker, but I lost interest.
+How do cows stay up to date? They read the moos-paper.
+How do you make a tissue dance? You put a little boogie in it.
+Why did the man get hit by a bike every day? He was stuck in a vicious cycle.
+What’s brown and sticky? A stick.
+I got a job at a bakery because I kneaded dough.
+Why don’t ants get sick? They have tiny ant-bodies.
+What did one wall say to the other? “I’ll meet you at the corner.”
+Why did the bicycle fall over? Because it was two tired.
+Why couldn’t the leopard play hide and seek? Because he was always spotted.
+What do you call a lazy kangaroo? A pouch potato.
+I told my wife she was drawing her eyebrows too high. She looked surprised.
+Why did the man put his money in the freezer? He wanted cold hard cash.
+Why did the computer get cold? It left its Windows open.
+How do you catch a squirrel? Climb a tree and act like a nut.
+What kind of shoes do ninjas wear? Sneakers.
+Why was the big cat disqualified from the race? Because it was a cheetah.
+What do you call an elephant that doesn’t matter? An irrelephant.
+Why did the banana go to the doctor? It wasn’t peeling well.
+What do you call a dog that can do magic? A labracadabrador.
+Why did the chicken coop only have two doors? Because if it had four, it would be a chicken sedan.
+How do you find Will Smith in the snow? You look for fresh prints.
+Did you hear about the circus fire? It was in tents.
+Why do bees have sticky hair? Because they use honeycombs.
+Why don’t oysters donate to charity? Because they’re shellfish.
+What do you call a pile of cats? A meowtain.
+How does a penguin build its house? Igloos it together.
+Why did the man bring a ladder to the bar? Because he heard the drinks were on the house.
+Why did the tomato turn red? Because it saw the salad dressing.
+Why did the broom late? It swept in.
+How do you know if a joke is a dad joke? It becomes apparent.
+Why don’t skeletons ever go trick or treating? Because they have no body to go with.
+Why did the scarecrow get promoted? Because he was outstanding in his field.
+I’m so good at sleeping I can do it with my eyes closed.
+What’s E.T. short for? Because he’s got little legs.
+What happens when a snowman throws a tantrum? He has a meltdown.
+Why did the smartphone need glasses? It lost its contacts.
+What do you call a pile of kittens? A meowtain.
+Why did the bicycle fall over? Because it was two tired.
+How do you make holy water? You boil the hell out of it.
+Why don’t scientists trust atoms? Because they make up everything.
+I told a joke about a roof once… It went over their heads.
+I used to hate facial hair… but then it grew on me.
+Did you hear about the cheese factory explosion? There was nothing left but de-brie.
+I would avoid the sushi if I was you. It’s a little fishy.
+What kind of shoes do ninjas wear? Sneakers.
+Why did the cookie cry? Because his mom was a wafer too long.
+I was going to tell a time-traveling joke, but you guys didn’t like it.
+The rotation of Earth really makes my day.
+I asked the dog, “What’s two minus two?” He said nothing.
+What do you call a fish wearing a bowtie? Sofishticated.
+I used to be a banker, but I lost interest.
+How do cows stay up to date? They read the moos-paper.
+How do you make a tissue dance? You put a little boogie in it.
+Want to hear something that’ll make you smile? Your face muscles.
+What do you call a lazy kangaroo? A pouch potato.
+I got a job at a bakery because I kneaded dough.
+Did you hear about the kidnapping at school? It’s fine—he woke up.
+Why was the big cat disqualified from the race? Because it was a cheetah.
+I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.
+Why don’t skeletons fight each other? They don’t have the guts.
+What do you call fake spaghetti? An impasta.
+Why did the scarecrow win an award? He was outstanding in his field.
+Why can’t you hear a pterodactyl go to the bathroom? Because the "P" is silent.
+I only know 25 letters of the alphabet. I don’t know y.
+What did the ocean say to the beach? Nothing, it just waved.
+Why don’t eggs tell jokes? They’d crack each other up.
+What’s orange and sounds like a parrot? A carrot.
+I’m afraid for the calendar. Its days are numbered.
+How do you organize a space party? You planet.
+What do you call cheese that isn’t yours? Nacho cheese.
+Why did the math book look sad? It had too many problems.
+Why did the coffee file a police report? It got mugged.
+What do you call a factory that makes okay products? A satisfactory.
+Want to hear a construction joke? Oh… never mind, I’m still working on it.
+I used to play piano by ear, but now I use my hands.
+Why did the golfer bring two pairs of pants? In case he got a hole in one.
+I’m on a seafood diet. I see food and I eat it.
+Why don’t crabs give to charity? Because they’re shellfish.
+What did the janitor say when he jumped out of the closet? Supplies!
+Why did the bicycle fall over? It was two-tired.
+Why couldn’t the leopard play hide and seek? Because he was always spotted.
+I used to be addicted to soap, but I’m clean now.
+I told my wife she was drawing her eyebrows too high. She looked surprised.
+Why can’t your nose be 12 inches long? Because then it would be a foot.
+What do you call a belt made of watches? A waist of time.
+Did you hear the rumor about butter? Well, I’m not going to spread it.
+Why did the man get hit by a bike every day? He was stuck in a vicious cycle.
+Want to hear a joke about paper? Never mind—it's tearable.
+Why did the tomato blush? It saw the salad dressing.
+I used to be a baker, but I couldn't make enough dough.
+I'm reading a book about anti-gravity. It's impossible to put down.
+How do you make holy water? You boil the hell out of it.
+Why don’t scientists trust atoms? Because they make up everything.
+I told a joke about a roof once… It went over their heads.
+I used to hate facial hair…but then it grew on me.
+Did you hear about the cheese factory explosion? There was nothing left but de-brie.
+I would avoid the sushi if I was you. It’s a little fishy.
+What kind of shoes do ninjas wear? Sneakers.
+Why did the cookie cry? Because his mom was a wafer too long.
+I was going to tell a time-traveling joke, but you guys didn’t like it.
+The rotation of Earth really makes my day.
+I asked the dog, “What’s two minus two?” He said nothing.
+What do you call a fish wearing a bowtie? Sofishticated.
+I used to be a banker, but I lost interest.
+How do cows stay up to date? They read the moos-paper.
+How do you make a tissue dance? You put a little boogie in it.
+Want to hear something that’ll make you smile? Your face muscles.
+What do you call a lazy kangaroo? A pouch potato.
+I got a job at a bakery because I kneaded dough.
+Did you hear about the kidnapping at school? It’s fine—he woke up.
+Why was the big cat disqualified from the race? Because it was a cheetah.
+I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.
+What do you call a snobbish criminal going downstairs? A condescending con descending.
+I used to run a dating service for chickens. But I was struggling to make hens meet.
+Why did the stadium get hot after the game? All the fans left.
+I told my suitcase there would be no vacation this year. Now I’m dealing with emotional baggage.
+I used to be a gardener, but I didn’t dig it.
+Why don’t some couples go to the gym? Because some relationships don’t work out.
+I once wrote a song about a tortilla. Well actually, it was more of a wrap.
+Did you hear the one about the roof? Never mind, it’s over your head.
+I’m terrified of elevators, so I’m going to start taking steps to avoid them.
+I told my wife she should do lunges to stay in shape. That would be a big step forward.
+I have a joke about time travel, but you didn’t like it.
+I used to be a baker, but I couldn’t make enough dough.
+I couldn’t remember how to throw a boomerang, but eventually it came back to me.
+I stayed up all night wondering where the sun went. Then it dawned on me.
+They say money talks, but mine just says goodbye.
+What do you call an angry carrot? A steamed veggie.
+I got a job as a human cannonball, but it was shot-lived.
+What do you call a nervous javelin thrower? Shakespeare.
+I know a lot of jokes about retired people… but none of them work.
+I just found out I’m colorblind. The news came completely out of the purple.
+What’s red and bad for your teeth? A brick.
+I gave all my dead batteries away today… Free of charge.
+I went to a seafood disco last week… and pulled a mussel.
+If you see a crime at an Apple Store, does that make you an iWitness?
+I’m reading a horror story in Braille. Something bad is going to happen… I can feel it.
+I couldn't figure out why the baseball kept getting bigger—then it hit me.
+When I found out my toaster wasn’t waterproof, I was shocked.
+I didn’t want to believe my dad was stealing from his job as a traffic cop, but when I got home all the signs were there.
+My boss told me to have a good day... so I went home.
+I told my wife she should embrace her mistakes… She gave me a hug.
+Why did the scarecrow get promoted? Because he was outstanding in his field.
+I'm so good at sleeping, I can do it with my eyes closed.
+What did the buffalo say when his son left? Bison.
+What’s E.T. short for? Because he’s got little legs.
+What happens when a snowman throws a tantrum? He has a meltdown.
+I told my wife I’d make her a belt out of watches. She said it would be a waist of time.
+Why did the smartphone need glasses? It lost its contacts.
+What do you call a pile of cats? A meowtain.
+Where do cows go for entertainment? The moo-vies.
+What kind of music do mummies listen to? Wrap music.
+Why did the man get fired from the calendar factory? He took a few days off.
+What do you call an elephant that doesn’t matter? An irrelephant.
+Why did the banana go to the doctor? It wasn’t peeling well.
+My wife told me I should do lunges to stay in shape. That would be a big step forward.
+What did the grapes say when they got stepped on? Nothing, they just let out a little wine.
+Why did the music teacher go to jail? Because she got caught with too many sharp objects.
+What kind of car does a sheep drive? A lamborghini.
+How do you catch a squirrel? Climb a tree and act like a nut.
+Why did the cow win an award? Because it was outstanding in its field.
+How does a train eat? It goes chew chew.
+Why don’t graveyards ever get overcrowded? Because people are dying to get in.
+I once got fired from a canned juice company. Apparently I couldn’t concentrate.
+Why did the man bring a ladder to the bar? Because he heard the drinks were on the house.
+How do you know if a joke is a dad joke? It becomes apparent.
+What kind of tea is hard to swallow? Reality.
+How do you make a lemon drop? Just let it fall.
+What’s a skeleton’s favorite instrument? The trom-bone.
+Why did the man get locked out of his yoga class? He couldn’t find his inner peace.
+What’s the best way to watch a fly fishing tournament? Live stream.
+What do you call two birds in love? Tweethearts.
+What do you call a dog that can do magic? A labracadabrador.
+Why couldn’t the pirate learn the alphabet? Because he always got lost at C.
+I don't play soccer because I enjoy the sport. I'm just doing it for kicks.
+What kind of shoes does a thief wear? Sneakers.
+I told my wife she should do the laundry. She said she didn’t like being put in a spin.
+Why do melons have weddings? Because they cantaloupe.
+What did the janitor say to the vacuum? You suck.
+Why did the barber win the race? Because he knew all the shortcuts.
+I made a pencil with two erasers. It was pointless.
+Why did the computer get cold? It left its Windows open.
+What’s a vampire’s favorite fruit? A blood orange.
+I accidentally swallowed some food coloring. The doctor says I’m OK but I feel like I’ve dyed a little inside.
+I made a joke about elevators, but it didn’t go down well.
+Why can’t you trust a balloon? It’s full of hot air.
+Why are frogs so happy? Because they eat whatever bugs them.
+Why don’t ants get sick? They have tiny ant-bodies.
+What did one hat say to the other? Stay here, I’m going on ahead.
+What does a lemon say when it answers the phone? Yellow!
+I bought some shoes from a drug dealer… I don't know what he laced them with, but I was tripping all day.
+I used to be a tap dancer until I fell in the sink.
+What’s a cat’s favorite color? Purr-ple.
+Why did the skeleton stay home from the party? He had no body to go with.
+What kind of tree fits in your hand? A palm tree.
+Why did the frog take the bus to work? His car got toad.
+Why was the broom late? It swept in.
+Why did the duck get a job? Because he was good at quacking the code.
+How does the moon cut his hair? Eclipse it.
+Why was the student’s report card wet? It was below C level.
+Why did the banana go out with the prune? Because it couldn’t find a date.
+I got hit in the head with a can of soda. Luckily, it was a soft drink.
+How do you stop a bull from charging? Cancel its credit card.
+What did the triangle say to the circle? You’re pointless.
+What happens when you go to the bathroom in France? European.
+What does garlic do when it gets hot? It takes its cloves off.
+Why did the barber always win? Because he could handle any fringe situation.
