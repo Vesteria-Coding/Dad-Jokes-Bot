@@ -26,7 +26,7 @@ while True:
         keyboard.wait('f12')
         t.sleep(0.1)
         joke_choice = r.choice(dad_jokes)
-        autogui.typewrite(joke_choice, interval=0.01)
+        autogui.typewrite(joke_choice, interval=0.03)
         t.sleep(0.1)
         autogui.press('enter')
         t.sleep(0.5)
